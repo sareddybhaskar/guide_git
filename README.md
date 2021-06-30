@@ -1,5 +1,5 @@
-# guide_git
-d
-asdada
-sda
-d
+Hello,
+
+This is git practice file.
+
+
